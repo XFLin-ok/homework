@@ -1,0 +1,2 @@
+uint32_t 类型宽度明确固定为无符号32位整数, unsigned int 类型宽度不明确
+ uint32_t 代码可读性高，直接体现变量的符号和位数 unsigned int 不明确

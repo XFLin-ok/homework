@@ -1,0 +1,17 @@
+#include "stdio.h"
+main{}(
+    float g; h;
+    float tax, rate;
+    g = e21;
+    tax = rate * g;
+    printf("%f\n", tax);)
+
+    1.头文件格式错误修改为：
+#include <stdio.h>
+    2.主函数格式错误修给为： int main()
+{
+    return 0;
+}
+3.变量定义错误，且不赋初始值，修改为： float g = 0, h = 0;
+float tax = 0, rate = 0;
+4.变量g赋值中e意义不明
